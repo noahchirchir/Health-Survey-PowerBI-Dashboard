@@ -13,9 +13,11 @@ Features
 
 Preview
 
-Dashboard Preview
+## 🖼️ Dashboard Preview
 
-![Health Survey Dashboard](screenshots/dashboard-overview.png)
+![Health Survey Dashboard](
+https://github.com/noahchirchir/Health-Survey-PowerBI-Dashboard/tree/main/Screenshots)
+
 
 
 Insights
