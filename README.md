@@ -15,8 +15,7 @@ Preview
 
 ## 🖼️ Dashboard Preview
 
-![Health Survey Dashboard](
-https://github.com/noahchirchir/Health-Survey-PowerBI-Dashboard/tree/main/Screenshots)
+![Health Survey Dashboard](https://github.com/noahchirchir/Health-Survey-PowerBI-Dashboard/blob/main/Screenshots/dashboard-overview.png)
 
 
 
